@@ -1,6 +1,9 @@
+// Alina Kobrusev 30248512
+// Abiya Raheel 30242511
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import "./style.css"
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
