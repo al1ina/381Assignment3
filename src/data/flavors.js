@@ -57,11 +57,11 @@ const flavors = [
  },
   {
     id: 7,
-    name: "Tiramisu Icecream",
+    name: "Tiramisu Nut Icecream",
     price: "$4.99",
-    description: " A classic tiramisu iceream.",
+    description: " A classic tiramisu iceream with delicious almonds.",
     duration: "8 weeks",
-    image: "images/chocolate.jpg"
+    image: "images/vanilla.jpg"
  },
  {
     id: 8,
